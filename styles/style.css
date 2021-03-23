@@ -239,21 +239,21 @@
 	#contact {
 		position: absolute;
 		color: #ffffff;
-		top: 650px;
+		top: 680px;
 		left:  60px;
 		font-size: 16px;
 	}
 	#mail{
 		color: #ffffff;
 		position: absolute;
-		top: 680px;
+		top: 710px;
 		left: 30px;
 		font-size: 12px;
 	}
 	#github{
 		color: #ffffff;
 		position: absolute;
-		top: 710px;
+		top: 740px;
 		left: 30px;
 		font-size: 12px;
 	}
@@ -271,6 +271,51 @@
 		left: 325px;
 		width: 650px;
 		height: 300px
+	}
+	#play{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 150px;
+		left: 250px
+	}
+	#writing{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 350px;
+		left: 250px
+	}
+	#coding{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 550px;
+		left: 250px;
+	}
+	#play_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 110px;
+		left: 280px;
+	}
+	#write_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 310px;
+		left: 320px;
+	}
+	#code_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 510px;
+		left: 270px;
 	}
 }
 
