@@ -151,13 +151,88 @@
 }
 @media(max-width: 800px){
 	body{
-	background-image: url("https://cdn.hk01.com/di/media/images/3473061/org/1bf4d6b616bbccfef6f66e0034acd376.jpg/Ua8QqShySKlijPxMEgIQg1zmLJvMWX0lTw6L4U8Oi-E?v=w1600r16_9");
+	background-image: url(../photo/background2.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-size: cover;
 	}
-	
-	
+	#self_img{
+		width: 100px;
+		height: 136px;
+		position: absolute;	
+	}
+	#li1{
+		color: wheat;
+		font-style: italic;
+		line-height: 60px;
+		position: relative;
+	}
+	#li2{
+		color: wheat;
+		font-style: italic;
+		position: relative;
+	}
+	#line{
+		position: absolute;
+		left: 15px;
+		top: 350px
+	}
+	#p1{
+		top: 350px;
+		left: 30px;
+		position: absolute;
+	}
+	#p2{
+		top: 390px;
+		left: 30px;
+		position: absolute;
+	}
+	#p3{
+		top: 430px;
+		left: 30px;
+		position: absolute;
+	}
+	#p4{
+		top: 460px;
+		left: 30px;
+		position: absolute;
+	}
+	#p5{
+		top: 480px;
+		left: 30px;
+		position: absolute;
+	}
+	#p6{
+		top: 510px;
+		left: 30px;
+		position: absolute;
+	}
+	#p7{
+		top: 550px;
+		left: 30px;
+		position: absolute;
+	}
+	#contact {
+		position: absolute;
+		color: #ffffff;
+		top: 650px;
+		left:  60px;
+		font-size: 16px;
+	}
+	#mail{
+		color: #ffffff;
+		position: absolute;
+		top: 680px;
+		left: 30px;
+		font-size: 12px;
+	}
+	#github{
+		color: #ffffff;
+		position: absolute;
+		top: 710px;
+		left: 30px;
+		font-size: 12px;
+	}
 }
 
 
