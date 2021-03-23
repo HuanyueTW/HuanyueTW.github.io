@@ -1,0 +1,112 @@
+body{
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+marquee {
+	width: 300px;
+	height: 200px;
+	font-size: 20px;
+	color: #ffa4a9;
+}
+ul{
+	top: 220px;
+	left: 20px;	
+	color: wheat;
+	position: absolute;
+}
+b{
+	color: white;
+	font-style: italic;
+}
+
+#contact {
+	position: absolute;
+	color: #ffffff;
+	bottom: 70px;
+	left:  600px;
+	font-size: 16px;
+}
+#self_img{
+	width: 100px;
+	height: 136px;
+	top: 80px;
+	left: 50px;
+	position: absolute;	
+}
+#arrow1{
+	width: 30px;
+	height: 30px;
+	top: 247px;
+	left: 123px;
+	position: absolute;
+}
+#arrow2{
+	width: 30px;
+	height: 30px;
+	top: 286px;
+	left: 133px;
+	position: absolute;
+}
+#li1{
+	color: wheat;
+	font-style: italic;
+	line-height: 60px;
+	position: page;
+}
+#li2{
+	color: wheat;
+	font-style: italic;
+	position: relative;
+}
+#mail{
+	color: #ffffff;
+	position: absolute;
+	bottom: 50px;
+	left: 560px;
+	font-size: 12px;
+}
+#github{
+	color: #ffffff;
+	position: absolute;
+	bottom: 30px;
+	left: 560px;
+	font-size: 12px;
+	
+}
+#line{
+	position: absolute;
+	left: 400px;
+	top: 140px
+	
+}
+#p1{
+	top: 130px;
+	left: 430px;
+	position: absolute;
+}
+#p2{
+	top: 170px;
+	left: 430px;
+	position: absolute;
+}
+#p3{
+	top: 200px;
+	left: 430px;
+	position: absolute;
+}
+#p4{
+	top: 220px;
+	left: 430px;
+	position: absolute;
+}
+#p5{
+	top: 240px;
+	left: 430px;
+	position: absolute;
+}
+#pf{
+	top: 280px;
+	left: 430px;
+	position: absolute;
+}
