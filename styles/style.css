@@ -149,7 +149,7 @@
 		left: 800px
 	}
 }
-@media screen and (max-width:480px){
+@media(max-width: 480px){
 	body{
 	background-repeat: no-repeat;
 	background-attachment: scroll;
