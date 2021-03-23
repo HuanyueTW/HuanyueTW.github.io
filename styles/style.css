@@ -148,6 +148,30 @@
 		top: 250px;
 		left: 800px
 	}
+	#play_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 210px;
+		left: 330px
+	}
+	#write_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 210px;
+		left: 618px	
+	}
+	#code_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 210px;
+		left: 823px
+	}
 }
 @media(max-width: 800px){
 	body{
@@ -233,7 +257,21 @@
 		left: 30px;
 		font-size: 12px;
 	}
-	 
+	#aboutme{
+		font-style: inherit;
+		color: #C9F6EC;
+		position: absolute;
+		top: 150px;
+		left: 160px	
+	} 
+	#Rectangle{
+		visibility: hidden;
+		position: absolute;
+		bottom: 170px;
+		left: 325px;
+		width: 650px;
+		height: 300px
+	}
 }
 
 
