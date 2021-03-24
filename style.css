@@ -175,7 +175,7 @@
 }
 @media(max-width: 800px){
 	body{
-	background-image: url(../photo/background2.jpg);
+	background-image: url(photo/background2.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-size: cover;
