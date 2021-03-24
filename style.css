@@ -1,0 +1,324 @@
+@media{
+	body{
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	}
+	marquee {
+		width: 300px;
+		height: 200px;
+		font-size: 20px;
+		color: #ffa4a9;
+	}
+	ul{
+		top: 220px;
+		left: 20px;	
+		color: wheat;
+		position: absolute;
+	}
+	b{
+		color: white;
+		font-style: italic;
+	}
+	#contact {
+		position: absolute;
+		color: #ffffff;
+		bottom: 70px;
+		left:  600px;
+		font-size: 16px;
+	}
+	#self_img{
+		width: 100px;
+		height: 136px;
+		top: 80px;
+		left: 50px;
+		position: absolute;	
+	}
+	#arrow1{
+		width: 30px;
+		height: 30px;
+		top: 247px;
+		left: 123px;
+		position: absolute;
+	}
+	#arrow2{
+		width: 30px;
+		height: 30px;
+		top: 286px;
+		left: 133px;
+		position: absolute;
+	}
+	#li1{
+		color: wheat;
+		font-style: italic;
+		line-height: 60px;
+		position: page;
+	}
+	#li2{
+		color: wheat;
+		font-style: italic;
+		position: relative;
+	}
+	#mail{
+		color: #ffffff;
+		position: absolute;
+		bottom: 50px;
+		left: 560px;
+		font-size: 12px;
+	}
+	#github{
+		color: #ffffff;
+		position: absolute;
+		bottom: 30px;
+		left: 560px;
+		font-size: 12px;
+	}
+	#line{
+		position: absolute;
+		left: 400px;
+		top: 140px
+	}
+	#p1{
+		top: 130px;
+		left: 430px;
+		position: absolute;
+	}
+	#p2{
+		top: 170px;
+		left: 430px;
+		position: absolute;
+	}
+	#p3{
+		top: 210px;
+		left: 430px;
+		position: absolute;
+	}
+	#p4{
+		top: 240px;
+		left: 430px;
+		position: absolute;
+	}
+	#p5{
+		top: 260px;
+		left: 430px;
+		position: absolute;
+	}
+	#p6{
+		top: 290px;
+		left: 430px;
+		position: absolute;
+	}
+	#p7{
+		top: 330px;
+		left: 430px;
+		position: absolute;
+	}
+	#Rectangle{
+		position: absolute;
+		bottom: 170px;
+		left: 325px;
+		width: 650px;
+		height: 300px
+	}
+	#aboutme{
+		font-style: inherit;
+		color: #C9F6EC;
+		position: absolute;
+		top: 90px;
+		left: 350px	
+	}
+	#play{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 250px;
+		left: 300px
+	}
+	#writing{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 250px;
+		left: 550px
+	}
+	#coding{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 250px;
+		left: 800px
+	}
+	#play_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 210px;
+		left: 330px
+	}
+	#write_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 210px;
+		left: 618px	
+	}
+	#code_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 210px;
+		left: 823px
+	}
+}
+@media(max-width: 800px){
+	body{
+	background-image: url(../photo/background2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	}
+	#self_img{
+		width: 100px;
+		height: 136px;
+		position: absolute;	
+	}
+	#li1{
+		color: wheat;
+		font-style: italic;
+		line-height: 60px;
+		position: relative;
+	}
+	#li2{
+		color: wheat;
+		font-style: italic;
+		position: relative;
+	}
+	#line{
+		position: absolute;
+		left: 15px;
+		top: 350px
+	}
+	#p1{
+		top: 350px;
+		left: 30px;
+		position: absolute;
+	}
+	#p2{
+		top: 390px;
+		left: 30px;
+		position: absolute;
+	}
+	#p3{
+		top: 430px;
+		left: 30px;
+		position: absolute;
+	}
+	#p4{
+		top: 460px;
+		left: 30px;
+		position: absolute;
+	}
+	#p5{
+		top: 480px;
+		left: 30px;
+		position: absolute;
+	}
+	#p6{
+		top: 510px;
+		left: 30px;
+		position: absolute;
+	}
+	#p7{
+		top: 550px;
+		left: 30px;
+		position: absolute;
+	}
+	#contact {
+		position: absolute;
+		color: #ffffff;
+		top: 680px;
+		left:  60px;
+		font-size: 16px;
+	}
+	#mail{
+		color: #ffffff;
+		position: absolute;
+		top: 710px;
+		left: 30px;
+		font-size: 12px;
+	}
+	#github{
+		color: #ffffff;
+		position: absolute;
+		top: 740px;
+		left: 30px;
+		font-size: 12px;
+	}
+	#aboutme{
+		font-style: inherit;
+		color: #C9F6EC;
+		position: absolute;
+		top: 150px;
+		left: 160px	
+	} 
+	#Rectangle{
+		visibility: hidden;
+		position: absolute;
+		bottom: 170px;
+		left: 325px;
+		width: 650px;
+		height: 300px
+	}
+	#play{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 150px;
+		left: 250px
+	}
+	#writing{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 350px;
+		left: 250px
+	}
+	#coding{
+		width: 200px;
+		height: 150px;
+		position: absolute;
+		top: 550px;
+		left: 250px;
+	}
+	#play_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 110px;
+		left: 280px;
+	}
+	#write_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 310px;
+		left: 320px;
+	}
+	#code_text{
+		color: #9AE1EA;
+		font-size: 20px;
+		font-style: italic;
+		position: absolute;
+		top: 510px;
+		left: 270px;
+	}
+}
+
+
+
+
