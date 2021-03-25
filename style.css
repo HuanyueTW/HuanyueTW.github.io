@@ -48,6 +48,13 @@
 		left: 133px;
 		position: absolute;
 	}
+	#arrow3{
+		width: 30px;
+		height: 30px;
+		top: 325px;
+		left: 90px;
+		position: absolute;
+	}
 	#li1{
 		color: wheat;
 		font-style: italic;
@@ -57,6 +64,13 @@
 	#li2{
 		color: wheat;
 		font-style: italic;
+		line-height: 20px;
+		position: relative;
+	}
+	#li3{
+		color: wheat;
+		font-style: italic;
+		line-height: 60px;
 		position: relative;
 	}
 	#mail{
@@ -171,6 +185,13 @@
 		position: absolute;
 		top: 210px;
 		left: 823px
+	}
+	#table_text{
+		color: wheat;
+		border: 3px #FFD382 dashed;
+		position: absolute;
+		top: 180px;
+		left: 300px;
 	}
 }
 @media(max-width: 800px){
